@@ -1,5 +1,5 @@
 <h2 align="center">Oi 👋, meu nome é Davi </h1>
-<h3 align="center">Um analista apaixonado por dados e dashboards..</h3>
+<h3 align="center">Um amante de planilhas e dashboards..</h3>
 
 - 🔭 Atualmente construindo **portfólios de análises pra encher esse lugar.**
 
