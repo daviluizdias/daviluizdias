@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-👋 Hi! My name is Davi Luiz, I'm from Espírito Santo, Brazil, and I work as a Relationship Analyst at PicPay. I’m currently specializing in Data Analysis, driven by my passion for turning data into insights that power transformative decisions. Databricks, SQL, Python, and data visualization tools like Looker and Tableau are my main allies on this journey of technical and analytical growth. ⚡
+👋 Hi! My name is Davi Luiz, I'm from Espírito Santo, Brazil, and I work as a Senior Customer Experience Analyst at PicPay. I’m currently specializing in Data Analysis, driven by my passion for turning data into insights that power transformative decisions. Databricks, SQL, Python, and data visualization tools like Looker and Tableau are my main allies on this journey of technical and analytical growth. ⚡
 
 ---
 
